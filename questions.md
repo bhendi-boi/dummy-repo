@@ -1,6 +1,6 @@
 # Questions
 
-Add them in an ul
+Add them to this ol
 
-- This is q1
-- This is q2 ...
+1. This is q1
+2. This is q2 ...
