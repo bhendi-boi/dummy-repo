@@ -18,4 +18,6 @@ Add them to this ol
 13. Given an array with both positive and negatice integers, find the subarray which gives maximum sum and return the starting and ending indices.
 14. Remove all duplicates from an array in a single array traversal.
 15. Given a string, print out the character with the highest frequency.
-16. 
+16. Write a program to emulate a 4 bit adder, input given in binary as strings.
+17. Given an array and integer k, find the closest pair of elements which add up to k.
+18. Implement stack data structure using queue. (try doing with single queue for a challenge)
