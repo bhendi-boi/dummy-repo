@@ -55,7 +55,12 @@ number at the 'i'th place before decimal point. i.e. 1/10th place shld be multip
 45. Given two strings, write a program that efficiently finds the longest common subsequence.
 46. Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
 47. Write a program to check if the given strings are anagram or not.
-
+48. Count Ways to Express a Number as the Sum of Consecutive Natural Numbers.
+49. Minimum Steps Required to Make Product Equal to One
+50. Count Trailing Zeros in Factorial
+51. Find the Number of Combinations, Given N and R
+52. Nth Natural Number
+53. Smallest Positive Integer that cannot be represented as Sum of Elements of the given array
 
 
 
