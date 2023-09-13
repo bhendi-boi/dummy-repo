@@ -47,7 +47,14 @@ If n is odd, replace n with either n + 1 or n - 1.
 Return the minimum number of operations needed for n to become 1.
 39. The following is the definition of Sum-Product of digits of a float : the numbers at 'i'th place after the decimal point shld be multiplied with 
 number at the 'i'th place before decimal point. i.e. 1/10th place shld be multiplied with 10s place and 1/100th place shldbe multiplied with 100s place... . Write an efficient algorithm to calculate the Sum-Product of digits of input float number.
-
+40.Print prime numbers from 1 to 100
+41.Take input integer array from user and find the maximum and minimum element in it
+42.Take an integer input and find the sum of its digits
+43.Implement binary search
+44.Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
+45.Given two strings, write a program that efficiently finds the longest common subsequence.
+46.Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
+47.Write a program to check if the given strings are anagram or not.
 
 
 
