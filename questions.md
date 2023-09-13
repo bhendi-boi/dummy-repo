@@ -21,3 +21,34 @@ Add them to this ol
 16. Write a program to emulate a 4 bit adder, input given in binary as strings.
 17. Given an array and integer k, find the closest pair of elements which add up to k.
 18. Implement stack data structure using queue. (try doing with single queue for a challenge)
+19. Divide a by b without using divide , multiplication or modulus operator.
+20. Calculate x^n.
+21. remove duplicates from sorted array.
+22. Reverse an input string.
+23. Concatenate two strings.
+24. Given two sorted arrays, write a function to merge them into a single sorted array.
+25. Given an unsorted array of non-negative integers and a target sum, write a function to find and print a continuous subarray that adds up to the target sum.
+26. Longest palindrome in a given string.
+27. Convert from integer to roman numerals.
+28. Given a array of integers and a target , find all combinations of integers such that sum is the target.
+29. Longest substring without any repeating characters.
+30. Give an efficient algorithm to find the nth root of input x. 
+31. Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+32. Find the kth smallest element in a given array.
+33. Find if two binary search trees are same. Their roots can be taken as arguements. 
+34. Convert a sorted array into binary search tree.
+35. Given an integer array and an integer k , find the contigious subarray of size k with the highest sum.
+36. determine , given a head of a linked list , if it is has a cycle. 
+37. There are n children standing in a line. Each child is assigned a rating value given in the integer array ratings.You are giving candies to these children subjected to the following requirements:
+Each child must have at least one candy and Children with a higher rating get more candies than their neighbors.Return the minimum number of candies you need to have to distribute the candies to the children.
+38. Given a positive integer n, you can apply one of the following operations:
+If n is even, replace n with n / 2.
+If n is odd, replace n with either n + 1 or n - 1.
+Return the minimum number of operations needed for n to become 1.
+39. The following is the definition of Sum-Product of digits of a float : the numbers at 'i'th place after the decimal point shld be multiplied with 
+number at the 'i'th place before decimal point. i.e. 1/10th place shld be multiplied with 10s place and 1/100th place shldbe multiplied with 100s place... . Write an efficient algorithm to calculate the Sum-Product of digits of input float number.
+
+
+
+
+
