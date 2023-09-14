@@ -14,7 +14,7 @@ Add them to this ol
 10. Find the number of palindromes in a given string.
 11. Consider a ladder of n steps. A monkey can climb the ladder either 1 step or 2 steps at a time. Find the number of ways in which the monkey climbs the ladder exactly.
 12. Find sum of all elements in the anti-principle diagonal.
-13. Given an array with both positive and negatice integers, find the subarray which gives maximum sum and return the starting and ending indices.
+13. Given an array with both positive and negative integers, find the subarray which gives maximum sum and return the starting and ending indices.
 14. Remove all duplicates from an array in a single array traversal.
 15. Given a string, print out the character with the highest frequency.
 16. Write a program to emulate a 4 bit adder, input given in binary as strings.
@@ -34,7 +34,7 @@ Add them to this ol
 30. Give an efficient algorithm to find the nth root of input x.
 31. Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
 32. Find the kth smallest element in a given array.
-33. Find if two binary search trees are same. Their roots can be taken as arguements.
+33. Find if two binary search trees are same. Their roots can be taken as arguments.
 34. Convert a sorted array into binary search tree.
 35. Given an integer array and an integer k , find the contigious subarray of size k with the highest sum.
 36. determine , given a head of a linked list , if it is has a cycle.
@@ -44,8 +44,8 @@ Add them to this ol
     If n is even, replace n with n / 2.
     If n is odd, replace n with either n + 1 or n - 1.
     Return the minimum number of operations needed for n to become 1.
-39. The following is the definition of Sum-Product of digits of a float : the numbers at 'i'th place after the decimal point shld be multiplied with
-    number at the 'i'th place before decimal point. i.e. 1/10th place shld be multiplied with 10s place and 1/100th place shldbe multiplied with 100s place... . Write an efficient algorithm to calculate the Sum-Product of digits of input float number.
+39. The following is the definition of Sum-Product of digits of a float : the numbers at 'i'th place after the decimal point should be multiplied with
+    number at the 'i'th place before decimal point. i.e. 1/10th place should be multiplied with 10s place and 1/100th place should be multiplied with 100s place... . Write an efficient algorithm to calculate the Sum-Product of digits of input float number.
 40. Print prime numbers from 1 to 100
 41. Take input integer array from user and find the maximum and minimum element in it
 42. Take an integer input and find the sum of its digits
