@@ -2,9 +2,8 @@
 
 Add them to this ol
 
-1. This is q1
-2. This is q2 ...
-
+1. Nth Natural Number
+2. Smallest Positive Integer that cannot be represented as Sum of Elements of the given array
 3. Write a program to find the only non-duplicate number in an array where all other elements have been repeated even number of times. (eg. [2, 3, 7, 3, 1, 7, 7, 9, 2, 9, 7] ans-1)
 4. Given a number x, check if it is a palindrome.
 5. Convert given Roman numeral to integer
@@ -32,26 +31,26 @@ Add them to this ol
 27. Convert from integer to roman numerals.
 28. Given a array of integers and a target , find all combinations of integers such that sum is the target.
 29. Longest substring without any repeating characters.
-30. Give an efficient algorithm to find the nth root of input x. 
+30. Give an efficient algorithm to find the nth root of input x.
 31. Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
 32. Find the kth smallest element in a given array.
-33. Find if two binary search trees are same. Their roots can be taken as arguements. 
+33. Find if two binary search trees are same. Their roots can be taken as arguements.
 34. Convert a sorted array into binary search tree.
 35. Given an integer array and an integer k , find the contigious subarray of size k with the highest sum.
-36. determine , given a head of a linked list , if it is has a cycle. 
+36. determine , given a head of a linked list , if it is has a cycle.
 37. There are n children standing in a line. Each child is assigned a rating value given in the integer array ratings.You are giving candies to these children subjected to the following requirements:
-Each child must have at least one candy and Children with a higher rating get more candies than their neighbors.Return the minimum number of candies you need to have to distribute the candies to the children.
+    Each child must have at least one candy and Children with a higher rating get more candies than their neighbors.Return the minimum number of candies you need to have to distribute the candies to the children.
 38. Given a positive integer n, you can apply one of the following operations:
-If n is even, replace n with n / 2.
-If n is odd, replace n with either n + 1 or n - 1.
-Return the minimum number of operations needed for n to become 1.
-39. The following is the definition of Sum-Product of digits of a float : the numbers at 'i'th place after the decimal point shld be multiplied with 
-number at the 'i'th place before decimal point. i.e. 1/10th place shld be multiplied with 10s place and 1/100th place shldbe multiplied with 100s place... . Write an efficient algorithm to calculate the Sum-Product of digits of input float number.
+    If n is even, replace n with n / 2.
+    If n is odd, replace n with either n + 1 or n - 1.
+    Return the minimum number of operations needed for n to become 1.
+39. The following is the definition of Sum-Product of digits of a float : the numbers at 'i'th place after the decimal point shld be multiplied with
+    number at the 'i'th place before decimal point. i.e. 1/10th place shld be multiplied with 10s place and 1/100th place shldbe multiplied with 100s place... . Write an efficient algorithm to calculate the Sum-Product of digits of input float number.
 40. Print prime numbers from 1 to 100
 41. Take input integer array from user and find the maximum and minimum element in it
 42. Take an integer input and find the sum of its digits
 43. Implement binary search
-44.  Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
+44. Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
 45. Given two strings, write a program that efficiently finds the longest common subsequence.
 46. Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
 47. Write a program to check if the given strings are anagram or not.
@@ -59,8 +58,3 @@ number at the 'i'th place before decimal point. i.e. 1/10th place shld be multip
 49. Minimum Steps Required to Make Product Equal to One
 50. Count Trailing Zeros in Factorial
 51. Find the Number of Combinations, Given N and R
-52. Nth Natural Number
-53. Smallest Positive Integer that cannot be represented as Sum of Elements of the given array
-
-
-
